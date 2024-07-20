@@ -1,0 +1,962 @@
+der Mann {Männer}
+die Frau {Frauen}
+das Mädchen 
+der Junge {Jungen}
+
+das Frühstück
+Mittagessen
+Du isst zu mitten
+Abendessen
+Du isst zu abend
+
+die Zeitung {Zeitungen}
+der Buch {Bücher}
+
+das Essen
+der Apfel (den?) {Äpfel}
+das Brot
+das Wasser
+der Reis
+die Suppe
+der Kaffee
+der Tee
+der Käse
+das Gemüse (verdura)
+das Obst (frutta)
+die Orange Orangen
+die Nudel (pasta)
+das Ei (uovo) {Eier}
+der Getränk (bibita)
+
+schmeckt gut
+Das schmeckt gut 
+Sie schmecken gut
+
+der Orangensaft (aranciata)
+Lecker (squisito)
+die Tomate {Tomaten}
+das Hähnchen (pollo)
+der Saft (succo)
+Durst(sete)
+Hunger(fame)
+das Menü
+die Erdbeere (fragola)
+die Zitrone
+das Fleisch (carne)
+die Kartoffel {Kartoffeln}
+der Zucker
+das Salz
+das Rezept
+die Speisekarte (menu)
+das Bier
+das Rind (manzo)
+das Schwein (maiale)
+der Wein
+sauer (aspro)
+die Schokolade
+der Vegetarier (vegetariano)
+salzig (salato)
+
+
+die Katze {Katzen}
+die Maus {Mäuse}
+das Tier (animale)
+der Vogel (uccello) {Vögel}
+das Pferd (cavallo)
+der Hund (cane) {Hunde}
+der Bär (orso)
+der Wolf
+die Biene (ape)
+die Kuh (mucca)
+die Ente (anatra)
+das Haustier (animale domestico)
+die Fliege (mosca)
+der Elefant (elefanten?)
+die Spinne (ragno)
+das Schwein (maiale)
+die Schlange (serpente)
+das Insekt
+der Fisch {Fische}
+
+Alt (vecchio)
+Großbritannie (Gran Bretagna)
+Schön (bello)
+Reich (ricco)
+Schwer (pesante/difficile)
+Wichtig (importante)
+Perfekt
+Weiß (bianco)
+Teuer (caro)
+Frei (libero)
+Voll (pieno)
+Kurz (corto)
+Hoch (alto)
+Lang (lungo)
+Gesund (sano)
+Hässlich (orribile)
+Kostenlos (gratis)
+Genau (appunto, infatti)
+Neu (nuovo)
+Normal
+Schlimm (grave, brutto)
+Nützlich (utile)
+Langsam (lentamente)
+Praktisch (pratico)
+Hart (duro)
+Schlecht (cattivo)
+Klar (chiaro)
+Stark (forte)
+Richtig (giusto)
+Möglich (possibile)
+Schnell (veloce)
+Einfach (facile)
+Positiv
+Modern
+Weich (morbido)
+Früh (presto)
+Kalt (freddo)
+Fest (solido)
+Toll (fantastico)
+Sicher (sicuro)
+Fertig (pronto)
+Rund (rotonda)
+Wahrscheinlich (probabile)
+Gemeinsam (Insieme)
+Kompliziert (complicato)
+Schlecht (cattivo)
+Interessant
+
+die Menschen (esseri umani)
+
+der Mantel (cappotto) {Mäntel}
+der Rock (gonna) {Röcke}
+das Hemd (camicia) {Hemden}
+der Schuh (scarpa) {Schuhe}
+der Hut(cappello) {Hüte}
+das Kleid (vestito) {Kleidung}
+die Kleidung (abbigliamento)
+die Tasche (borsa) {Taschen}
+die Börse
+die Hose (pantaloni) {Hosen}
+der Knopf (bottone) {Knöpfe}
+der Schmuck (gioielli)
+die Kosmetik (trucco)
+die Schminke
+die Jacke (Giacca) {Jacken}
+
+Alles (tutto)
+Beide (entrambi/e)
+
+Manche (qualche, alcuni)
+Jede (ogni, ognuno) Jeder
+Viel (molto) viele
+Man (si)
+Irgendwer, jemand, Irgendjemand (qualcuno)
+Welcher welche welches welche(quale)
+Niemand (nessuno)
+
+die Familie
+der Vater (padre) {väter}
+die Mutter (madre) {mütter}
+die Eltern (genitori)
+die Tochter (figlia) {Töchter}
+der Bruder(fratello) {Brüder}
+der Sohn (figlio) {söhne}
+die Großeltern (nonni)
+der Großvater
+die Großmutter
+der Partner
+die Beziehung (relazione)
+die Hochzeit (nozze)
+die Geschwister (fratelli) [sibilings]
+die Schwester
+die Partnerschaft (collaborazione)
+die Oma (nonna)
+der Opa (nonno)
+
+Jedes (ogni)
+Viele (molti)
+Alle (tutti i ?)
+Welchen (quale)
+Welchen Orangensaft magst du?
+Andere (altro)
+Jemand anderes?
+
+Mich
+Dich
+Ihn/Sie/Es
+Uns
+Euch
+Sie
+
+Riflessivo
+
+Mich
+Dich
+Sich
+Uns
+Euch
+Sich
+
+Irgendwas (qualcosa) irgendetwas?
+Irgendwer (qualcuno) -> irgendwen
+Das (ciò)
+Jemand (qualcuno) -> jemanden
+Einander (l'un l'altro)
+
+Ist euch Kalt? (avete freddo)
+
+Wie (che, come)
+Und (e)
+Oder (o)(vero?)
+Da (qui) (siccome)
+Wenn (se)
+Wenn sie geht, geht er (invertire nella seconda parte)
+Weil (perchè [non domanda])
+Sowie (sia) 
+Er trinkt Kaffee sowie Tee
+Solange (finchè)
+Aber (ma)
+Entweder ... oder ... (O .. o ..)
+Doch (ma)
+Doch! (invece sì)
+Sobald (appena)
+Sofern (purchè)
+Damit (per (in order to))
+Obwohl (anche se)
+
+der Tisch (tavolo) {Tische}
+der Stuhl (sedia)
+das Sofa 
+das Haus (casa) {Häuser}
+der Schlüssel (chiave)
+das Bett (letto)
+die Toilette
+das Fenster (finestra)
+das Bad (bagno)
+das Licht (luce)
+die Tür (porta) {Türen}
+die Lampe (lampada)
+die Treppe (scala)
+die Wohnhung (appartamento) {Wohnungen}
+
+das Dach (tetto)
+der Keller (cantina)
+der Balkon (balcone)
+die Heizung (riscaldamento)
+die Reinigung (pulizia)
+der Bau (costruzione)
+
+die Wand (muro)
+der Raum (stanza)
+das Tor (portone)
+das Werkzeug (attrezzo)
+das Schlafzimmer (camera da letto)
+das Gerät (apparecchio)
+der Umzug (trasloco)
+
+
+die Küche (cucina)
+der Spiegel (specchio) {Spiegel}
+Schlaf (il sonno)
+die Möbel (mobili)
+der Wohnhort (residenza)
+der Hausalt (casa?, bilancio?)
+das haushaltsgeräte (elettrodomestici)
+die Tasse (tazza) {Tassen}
+das Glas (bicchiere) {Gläser}
+der Löffel (cucchiaio) {Löffel}
+das Öl (olio)
+die Flasche (bottiglia) {Flaschen}
+der Teller (piatto) {Teller}
+die Schüssel (ciotola)
+die Batterie (batteria) {Batterien}
+die Zahnbürste (spazzolino)
+die Zahnpasta (dentifricio)
+der Regenschirm (ombrello)
+die Seife (sapone)
+der Rasierer (rasoio)
+der Bettbezug (lenzuolo)
+die Leiter (scala a pioli) {Leitern}
+der Leiter (direttore) {Leiter}
+das Spielzeug (giocattolo)
+
+
+aus (fuori / da / di)
+Ich bin aus Deutchland
+mit (con / a)
+
+Dativo:  a chi? con chi?
+dem der dem den
+einem einer einem
+meinem meiner meinem meinen
+
+Wie geht es Euch? (come state?)
+Wie geht es der Familie? (come sta la famiglia?)
+auf (su)
+zu (chiuso / troppo / per / a)
+Nach (dopo / a/ verso) [secondo me, moto a luogo (luoghi senza articolo)]
+Ich gehe nach hause
+Bei (vicino)
+Zur (al) = zu + der?
+Zum = zu + dem (essen fisch zum mittagessen)
+Zun = zu + den
+Ich gehe zur Toilette
+Er spricht zu Schwester
+Am (al) Am Fenster 
+Er ist am Tor
+Beim (con il / presso il / al / durante il)
+Beim Mittagessen, Fruhstuck
+Bei (a casa di)
+
+---
+ZU NACH IN
+Zu + dativo: persone, istituzioni
+Nach + dativo: terre/stati senza articolo, , hause(?)
+In + akk : terre con articolo, edifici
+An + akk: mare/spiaggia?
+Auf + akk: autorità(?), party, toilette, Land, Zimmer
+
+Zur / auf die / in die Post
+Zur / auf die / in die Bank
+---
+
+Mir
+Dir
+Ihm/Ihr/Ihm
+Uns
+Euch
+Ihnen
+
+Ich sehe aus wie du (sembro te)
+Sehen aus wie (sembrare)
+
+Ich bin mit dem Kaffee fertig
+
+Aus (spento)
+Aus: da (provenienza), di (materia)
+Auf (sopra)
+
+Domande:
+Was (che cosa)
+Wer (chi) Wen (accusativo)
+Wessen (di chi)
+Warum (perché)
+Wann (quando)
+Wo (dove)
+Woher (da dove)
+Wohin (verso dove)
+Wieso (come mai)
+Wofür (per che cosa)
+Worüber (di che cosa)
+Worum (di che cosa)
+
+etwas (qualcosa)(agg. qualche)
+die Antwort (risposta)
+Antworten (rispondere)
+Beantworten
+Beantworte das!
+die Frage (domanda)
+Fragen (chiedere)
+Fragen nach (chiedere di)
+
+Tief (profondo)
+Beendet (finito)
+
+Laufen die Treppe hoch (salire le scale)
+
+Nummer
+
+Eins Erste (Ersten?)
+Zwei Zweiter Zweite Zweites Zweite
+Drei Dritte
+Vier
+Fünf
+Sechs
+Sieben
+Acht
+Neun
+Zehn
+Elf
+Zwölf
+Dreizehn
+Vierzehn
+Fünfzehn
+Sechzehn
+Siebzehn
+Achtzehn
+Neunzehn
+Zwanzig
+
+20-99 = unità + und + decina
+
+Dreißig
+Vierzig
+Fünfzig
+Sechzig
+Siebzig
+Achtzig
+Neunzig
+
+Hundert/Einhundert
+Tausend
+eine Million
+
+die Telefonnummer
+der Liter (litro)
+die Summe (somma)
+das Paar (coppia)
+die Hälfte (metà)
+die Zahl (numero)
+Prozent (percento)
+
+Mein Kind ist schlecht (è cattivo)
+Meinem Kind ist schlecht (si sente male)
+
+Wie geht es (+ dativo) : come sta ... ?
+
+Etwas(un po' di)
+
+Es ist kurz nach drei (appena dopo le tre)
+
+Mit beiden
+Bei ihr (con lei)
+
+Folgen + dativo (seguire)
+Danken + dativo (ringraziare)
+Gehorten + dativo (appartenere a)
+Helfen + dativo (aiutare)
+
+Nicht, nichts, gar nicht, 
+Nie (mai), niemals
+Kein
+
+Reich mir (passami)
+Er ist der Vater dieser Familie (è il padre di questa famiglia)
+Wann ich esse, schlafe ich nicht
+Sofern es nicht kalt ist, gehen wir essen
+
+die Freunden (amici)
+Freunde
+der Feind (nemico)
+das Baby babys
+die Person
+die Freundin (ragazza)
+Kindern
+Nicht dein Vater, nicht deine Freundin, niemand
+der Herr (il signore)
+der Verein (associazione)
+Das Mitglied (membro) mitglieder
+Verbindungen (contatti)
+Er hat verbindungen zu ihren freunden (contatti con i suoi amici)
+Französisch (francese)
+Leute (gente)
+Junge leute (i giovani)
+Der Mensch (essere umano)
+Der Bürger (cittadino)
+Der Gegner (avversario)
+Der Heimwerker (lavoratore fai da te)
+Die Mannschaft (squadra)
+Die Dame (signora)
+Der Name (nome)
+Der Vornamen (nome)
+Das Personal 
+Das Publikum
+Das Verhältnis (relazione)
+Die Gruppe
+Die Bevölkerung (popolazione)
+Das Englisch (la lingua inglese)
+Der Gast (ospite)
+Der Besucher (visitatore)
+Der Anfänger (principiante)
+Die Öffentlichkeit (sfera pubblica)
+Die Gemeinde (comune)
+Deutscher (tedesco)
+Der Nutzer (utente)
+Der Einwohner (abitante)
+Die Fans
+Der Käufer (acquirente)
+Integration
+Die Mitgliedschaft (appartenenza)
+Der Verbraucher (consumatore)
+Englische (inglese)
+Römische (romano)
+Röminsche menschen
+Die Erwachsene (adulto)
+
+Zu mir nach hause (a casa da me?)
+Verbindungen zu (contatti con)
+
+der Zug (treno) Züge
+der Bus
+der Pass (passaporto)
+das Auto
+
+Ich bin aus Wien (sono di Vienna)
+Ich gehe nach Österreich (vado in Austria)
+
+Reisen (viaggiare)
+Reisen nach (viaggiare verso)
+
+der Konsument (consumatore)
+das Boat (barca)
+das Boot (barca)
+das Fahrzeug (macchina)
+das Auto
+der Wagen (macchina)
+die Reise (viaggio)
+Er ist auf einer Reise (è in viaggio)
+Bayern (baviera)
+das Schiff (nave)
+Sehenswuurdigkeiten (attrazioni turistiche)
+das Motorrad (moto)
+der Stadtplan (mappa)
+Tourismus (turismo)
+Frankreich
+OOsterreich
+Italien
+die Schweiz
+der Weg (cammino)
+die Strecke (percorso)
+die Fahrt (gita)
+das Abenteuer (avventura)
+der Verkehr (traffico)
+der Mietwagen (macchina a noleggio)
+das Flugzeug (aereo)
+Die Bahn (ferrovia)
+Besuch (visita)
+Wir haben ferien (siamo in ferie)
+Schweizer (svizzero)
+Tour (giro)
+U-Bahn (metropolitana)
+die Ampel (semaforo)
+der Fußgänger (pedone)
+der Ratgeber (guida)
+der Stau (ingorgo)
+der Transport
+die Bushaltestelle (fermata dell'autobus)
+
+der Garten (giardino)
+das Rot (rosso) rote
+Grün (verde) gruune
+Blau (blu) blauen
+Gelb (giallo) Gelbe
+Scwarz (nero) Schwarze
+Weiß (bianco) Weisse
+die Farbe (colore)
+
+Nominativ
+der rote Hut, die rote Rose, das rote Hemd, die roten Schuhe
+ein roter Hut, eine rote Rose, ein rotes Hemd, keine roten Schuhe
+Akkusativ: masculine -en
+die alte Katze sieht den alten Mann
+Dativ
+dem/der/dem/den roten ___ 
+einem, einer, einem, keinen roten ___
+
+
+
+Das tut mir leid (mi dispiace)
+Wirklich (davvero)
+Wie heisst sie (come si chiama lei)
+Nach Ihnen (dopo di lei)
+ist es Ihres? (è Suo?)
+die Werkstatt (officina)
+sie geht spazieren (lei va a fare una passeggiata)
+spazieren (fare una passeggiata)
+ein Handy (cellulare)
+Bitte (per favore)
+Natürlich (certamente)
+Ist da die Werkstatt? (è là l'officina)
+Keine ahnung (non ne ho idea)
+Wochenende (weekend)
+Kaputt (rotto)
+Neben (accanto a)
+Verärgert (arrabbiato)
+
+Die Äpfel der Mädchen (le mele delle ragazze)
+der Richter (giudice)
+der Lehrer (insegnante) Lehrerin
+der Arzt (dottore/medico) Ärztin
+der Schüler (alunno) Schülerin Schülerinnen
+der Student (studente) Studentin
+der Autor (autore)
+der Trainer (allenatore)
+Unser Trainer schläft nie (il nostro allenatore non dorme mai)
+der Händler (commerciante)
+der Professor (professore)
+der Leiter (capo/direttore) Leiterin
+der Geschäftsführer (direttore amministrativo)
+die Arbeitgeber (datore di lavoro) arbeitgeberin arbeitgeberinnen
+der Bauer (contadino)
+der Architekt (architetto)
+der Schneider (sarto)
+der Hersteller (produttore)
+der Bürgermeister (sindaco)
+der Mitarbeiter (collaboratore) Mitarbeiterin
+der Beruf (professione)
+der Fahrer (autista)
+der Experte (esperto) die Experten
+der Teilnehmer (partecipante)
+die Feuerwehr (vigili del fuoco) 
+Wir haben eine Feuerwehr
+der Rechtsanwalt (avvocato) Rechtsanwaalte
+die Bedienung (servizio)
+das Handwerk (mestiere)
+der Verfasser (autore)
+der Betreiber (gestore)
+der Empfänger (destinatario)
+der Arbeitnehmer (dipendente) die arbeitnehmer
+der Koch (cuoco)
+der Entwickler (sviluppatore)
+die Spezialität (specialità)
+der Weber (tessitore)
+das Reiseführer (guida turistica)
+Es gibt (c'è)
+nur (solo/solamente)
+
+Ich bin nicht die Professorin
+Ich mag die Professorin nicht
+
+Große (grande) Er ist Gross
+Er traagt groosse drei (porta taglia 3)
+Größe (altezza)
+Größer (più grande)
+Größte (il più grande)
+Schlimmer (peggiore)
+Schlimmste (il peggiore)
+Klein (piccolo)
+Kleiner (più piccolo)
+Besser (migliore) Bessere
+Beste (il migliore) die Besten
+Schönste (il più bello)
+Ich möchte gern (Vorrei)
+Abwaschen (lavare i piatti)
+Putzen (pulire)
+Schmutzig (sporco)
+Drei Stunden (3 ore)
+Sauber (pulito)
+Müde (stanco)
+
+Der Apfel ist groß (forma predicativa => no declinazione)
+Er ist am groossten (lui è il più grande)
+
+Klassenzimmer (classe)
+Gleich (a breve)
+Jetzt (ora)
+Vielleicht (forse)
+Sitzen (essere seduto)
+Leise (zitto)
+Malen (dipingere)
+Langweilig (noioso)
+
+Super (fantastico)
+Ganz (completamente)
+Es ist was ganz anderes (è tutta un'altra cosa)
+Sehr (molto)
+Ziemlich (abbastanza)
+Gute (buono)
+Weiter (avanti)
+Es geht weiter (sta andando avanti)
+Gewoonlich (solitamente, al solito)
+Es sieht gewoonlich aus (sembra ordinario)
+eher (piuttosto)
+
+Kunst (arte)
+Zeigen (mostrare)
+Bild (quadro)
+Haare (capelli)
+der Kopf (testa)
+Auge (occhi) Augen
+Kaufen (comprare)
+Echt (davvero)
+Das Tier ist echt (l'animale è vero)
+Fit (in forma)
+Kaputt (rotto) 
+Es geht kaputt
+Herzlich (affettuoso)
+Erneut (di nuovo)
+Relativ (relativo)
+Eindeutig (evidente)
+Regional (regionale)
+International
+Muude (stanco)
+Ruhig (calmo)
+Wesentlich (fondamentale)
+Taaglich (ogni giorno)
+Leicht (leggero, facile)
+Jaahrlich (annualmente)
+Plootzlich (all'improvviso)
+Beliebt (benvoluto)
+Original
+Begeistert (entusiasta)
+Voollig (completamente)
+Persoonlich (privato)
+Er ist voollig fertig (è completamente sfinito)
+Verpflichtet (obbligato)
+Selbstverstaandlich (ovvio)
+Jung (giovane)
+Aktiv (attivo)
+Zufrieden (contenta)
+Verfuugbar (disponibile)
+Hooher (tutto)
+Obst ist knapp (la frutta scarseggia)
+Bereit (pronto)
+Stark (forte) 
+Staarker (più forte)
+Algemein (generalmente)
+Tatsaachlich (Davvero)
+Laanger (più lungo)
+Zustaandig (addetto)
+Verantwortlich (responsabile)
+Ausgezeichnet (ottimo)
+Falsch (sbagliato)
+Sichtbar (visibile)
+Sinnvoll (sensato)
+Notwendig (necessario)
+Aahnlich (simile)
+Wert (valore)
+Was ist mein Mantel wert
+Dein Pferd ist es wert (Il tuo cavallo lo vale)
+Extrem
+Egal (non importa)
+Er ist mir egal (non mi importa di lui)
+Hilfreich (utile)
+Offen (aperto)
+Unabhaangig (indipendente)
+Unbekannt (sconosciuto)
+Deutlich (chiaro, comprensibile)
+
+Er ist ... aahnlich (assomiglia)
+im (in) = in dem
+Fuur (per)
+an (acceso)
+geht ... an (riguarda)
+auf (su) -> aufs
+Sie schreibt es auf (se lo scrive)
+uuber (sopra, a proposito di)
+Sie spricht uuber alles (parla di tutto)
+in (in) -> ins
+an (di)
+Was magst du an ihr (cosa di piace di lei)
+Seit (da)
+Seit wann (da quando)
+um (a)
+Ich gehe um zehn (vado alle dieci)
+vor (prima)
+Es ist fuunf vor neun
+ohne (senza)
+bis (fino a)
+zwischen (tra)
+gegen (contro)
+Ausser (tranne)
+Durch (attraverso)
+neben (accanto)
+ab (da)
+ab und zu (ogni tanto)
+waahrend (mentre)
+von (di)
+Hinter (dietro)
+Wegen (a causa di)
+unter (tra)
+Einschliesslich (compreso)
+Das geht aufs Haus (questo lo offre la casa)
+ums (intorno?)
+
+Extra (supplementare, appositamente)
+
+Ich moochte gern (vorrei)
+abwaschen (lavare i piatti)
+putzen (pulire)
+schmutzig (sporco)
+Stunden (ore)
+sauber (pulito)
+muude (stanco)
+
+Das ist richtig deutlich (Ciò è ben chiaro)
+draussen (fuori)
+verpflichtet (obbligato)
+
+beim (dal, presso il)
+Vom Mann zum Vater (da uomo a padre)
+gegenuuber (di fronte)
+auch (anche)
+bis (fino a)
+Ich gehe bis zur Tuur
+die jacke von dieser person (la giacca di questa persona)
+Beschreiben (scrivere?)
+warte (aspetta)
+Das geht sie nichts an (questo non la riguarda)
+Trotz (nonostante)
+Trotz der Autos schlafen wir (nonostante le auto dormiamo)
+
+der Fuss (piede)
+die Hand (mano) Haande
+der Koorper (corpo)
+das Bein (gamba)
+die Krankheit (malattia)
+krank (malato)
+Alles tut weh (fa male)
+der Patient (paziente)
+das Auge (occhio)
+das Herz (cuore)
+die Medikamente (medicina)
+Gesundheit (Salute)
+Praxis (studio medico)
+die Praxis laauft gut (lo studio medico va bene)
+die Therapie (terapia)
+die Krankenversicherung (assicurazione medica)
+die Medizin (medicina)
+der Hals (collo)
+das Blut (sangue)
+das Opfer (vittima)
+der Unfall (incidente)
+Haare (capelli)
+Krankenhaus (ospedale)
+das Gesicht (faccia)
+die Haut (pelle)
+die Sucht (dipendenza)
+die Geburt (parto)
+der Finger (dito)
+das Formular (modulo) Formulare
+die Untersuchung (controllo, indagine)
+der Alkohol
+der Kopf (testa)
+die Klinik (clinica)
+die Pflege (assistenza)
+die Apotheke (farmacia)
+die Ernaahrung (nutrizione)
+ein Krankenwagen (ambulanza)
+die Diaat (dieta)
+Er ist auf Diaat
+der Notfall (caso di emergenza)
+dann (poi)
+das Lieblingsessen (piatto preferito)
+
+Spulen (lavare)
+der Kopf (testa)
+Weissen (sapere)
+Fahren (viaggiare)
+Arbeiten (lavorare)
+Passieren (accadere)
+Stehen auf (alzarsi)
+Wohnen (abitare)
+Machen (fare)
+Ich mache die Tuur zu (chiudo la porta)
+Das macht nichts (fa niente)
+Finden (trovare)
+Hooren (ascoltare)
+Erlaubten (permettere)
+Kommen (venire)
+Stooren (disturbare)
+Funktionieren (funzionare)
+Sammeln (raccogliere)
+Schwimmen (nuotare)
+Sammeln wir ihn ein (raccogliamolo)
+Scheinen (splendere)
+Benutzen (usare)
+Treffen ein (arrivare)
+Hoffen (sperare)
+UUbernehmen (prendere in carico)
+Schliessen (chiudere)
+Verkaufen (vendere)
+Stellen vor (presentare)
+Warten (aspettare)
+Ersetzen (cambiare)
+Wir ersetzen die Orange durch eine Kartoffel
+Ich stelle sie nicht ein (io non la assumo)
+Stehlen (rubare)
+Nehmen (prendere)
+Moochte (vorrei)
+Meinen (intendere)
+Halten (tenere)
+Bestellen (ordinare)
+Zeigen (mostrare)
+Abonnieren (abbonarsi)
+Bleiben (rimanere)
+Fehlen (mancare a)
+Spazieren (passeggiare)
+Erkennen (riconoscere)
+Pruufen (controllare)
+Liegen (sdraiarsi)
+Bitten (pregare)
+Geben (dare) [ich gibt]
+Gefallen (piacere a)
+Singen (cantare)
+Akzeptiert (accettare)
+Glauben (credere)
+Erweiteren (allargare)
+Steigen (montare)
+Hooren sie auf (la smetta!)
+die Jahre (anno)
+die Morgen (domani)
+Guten morgen (buongiorno)
+die Uhr (orologio)
+Der Zug kommt um neun Uhr an
+die Stunde (lezione, ora)
+die Zeit (tempo)
+Tag (giorno)
+Mittag (mezzogiorno)
+
+Montag
+Dienstag
+Mittwoch
+Donnerstag
+Freitag
+Samstag 
+Sonntag
+
+Tag um Tag (giorno dopo giorno)
+der Kalender (calendario)
+der Monat (mese)
+die Woche (settimana)
+letzt (ultimo)
+die Sekunde (secondo)
+die Nacht (notte)
+die Saison (stagione)
+
+Januar
+Februar
+Maarz
+April
+Mai
+Juni
+Juli
+August
+September
+Oktober
+November
+Dezember
+
+der Urlaub (vacanza)
+der Moment (attimo)
+das Jahrhundert (secolo)
+Zukunft (futuro)
+der Werktag (giorno feriale/lavorativo)
+die Weihnachten (natale)
+die Uhrzeit (ora)
+die Phase (fase)
+der Termin (data, appuntamento)
+der Zeitpunkt (data)
+das Datum (data)
+Die Ferien sind zu Ende (le vacanze sono finite)
+
+der Sommer (estate)
+der Fruuhling (primavera)
+der Herbst (autunno)
+der Winter (inverno)
+
+die Vergangenheit (passato)
+Um welche Uhrzeit kommt die Schneider?
+der Schluss (fine)
+das Alter (età)
+das Wochenende (weekend)
+der Geburtstag (compleanno)
+das Quartal (trimestre)
+die Daten (dati)
+der Alltag (vita quotidiana)
+die Dauer (durata)
+der Zeitraum (fascia di tempo)
+Das geht auf Dauer nicht (questo non va a lungo andare)
+Warten auf (aspettare)
+Wir haben April (siamo in aprile)
