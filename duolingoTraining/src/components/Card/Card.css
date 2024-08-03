@@ -1,8 +1,15 @@
 .card{
-    border: 2px solid black;
-    width: fit-content;
-    padding-right: 20px;
-    padding-left: 20px;
+    width: 150px;
+    height: 200px;
+    text-align: center;
+}
 
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+.italian{
+    background: linear-gradient(90deg, green, white, red);
+    color: black;
+}
+
+.german{
+    background: linear-gradient(180deg, black, red, yellow);
+    color: white;
 }

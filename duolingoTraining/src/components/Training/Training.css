@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+}
+
+#training{
+    /*border: 2px solid black;*/
+}
+
+.flexContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.buttonContainer{
+    /*border: 2px solid black;*/
+    padding: 10px;
+}

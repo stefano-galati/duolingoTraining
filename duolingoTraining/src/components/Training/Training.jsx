@@ -2,7 +2,9 @@ import React from "react";
 import { useState, useEffect } from "react";
 import { realTranslations } from "../../assets/realTranslations";
 import Card from "../Card/Card";
-import Toggle from "../ToggleTranslation/toggle";
+import Toggle from "../ToggleTranslation/Toggle";
+import Button from "../Button/Button";
+import "./Training.css"
 
 const Training = () => {
     const wordRegex = /^(.*)$/
@@ -71,12 +73,25 @@ const Training = () => {
     */
 
     return(
-        <>
-            <h1>HELLO!</h1>
-            <Card fromItalian={fromItalian} word={currentWord.word} translation={currentWord.translation} plural={currentWord.plural} />
-            <Toggle fromItalian={fromItalian} setFromItalian={setFromItalian} />
-            <button onClick={changeWord}>New</button>
-        </>
+        <div id="training">
+            <h1>Training</h1>
+            <div className="flexContainer">
+                <div className="cardContainer">
+                    <Card fromItalian={fromItalian} word={currentWord.word} 
+                        translation={currentWord.translation} plural={currentWord.plural} />
+                </div>
+                <div>
+                    <div className="buttonContainer">
+                        <Toggle fromItalian={fromItalian} setFromItalian={setFromItalian} />
+                    </div>
+                    <div className="buttonContainer">
+                        <Button onClick={changeWord} text="New"/>
+                    </div>
+                </div>
+            </div>
+            
+            
+        </div>
     )
 }
 
