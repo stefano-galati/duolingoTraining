@@ -1,8 +1,9 @@
 import React from "react";
 import "./Toggle.css";
+import "../Card/Card.css"
 
 const Toggle = ({fromItalian, setFromItalian}) => {
-    console.log(fromItalian);
+    //console.log(fromItalian);
 
     return(
         <div className="toggle">  

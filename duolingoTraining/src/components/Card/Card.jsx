@@ -8,6 +8,7 @@ const Card = (props) => {
 
     let front, back, frontLanguage;
 
+    //change content
     if(fromItalian){
         front = [translation];
         back = [word, plural];
@@ -18,6 +19,8 @@ const Card = (props) => {
     }
 
     //useEffect to upload states
+
+    //set front language
     if(fromItalian){
         if(isFront)
             frontLanguage = "italian";
@@ -30,11 +33,8 @@ const Card = (props) => {
         else
             frontLanguage = "italian"
     }
-    console.log("Front language: " + frontLanguage);
-    
-    //console.log(front);
-    //console.log(back);
-    console.log("deep card " + frontLanguage);
+
+    useEffect(()=>{setIsFront(true)}, [props]);
 
     return(
     <>

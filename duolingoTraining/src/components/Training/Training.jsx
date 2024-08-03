@@ -15,8 +15,15 @@ const Training = () => {
     const [transJSON, setTransJSON] = useState([]);
     const [currentWord, setCurrentWord] = useState({word: "", translation: "", plural: ""});
     const [fromItalian, setFromItalian] = useState(false);
-    const [loading, setLoading] = useState(false);
+    //const [loading, setLoading] = useState(false);
 
+    const [numCards, setNumCards] = useState(3);
+
+    const [selectedCards, setSelectedCards] = useState([]);
+    const [availableCards, setAvailableCards] = useState([]);
+
+    const minNum = 1, maxNum = 10;
+    /*
     function changeWord(){
         let elem = Math.floor(Math.random() * transJSON.length);
         setCurrentWord(transJSON[elem]);
@@ -24,11 +31,10 @@ const Training = () => {
         console.log(currentWord);
         console.log(transJSON.length);
     }
-    
+
     useEffect(() => {
         let matching;
         let updatedTransJSON = [];
-        setLoading(true);
 
         realTranslations.split("\n").forEach(x => {
             
@@ -64,6 +70,63 @@ const Training = () => {
         console.log("End of useEffect");
 
     }, []);
+    */
+    
+    function changeWords(cards){
+        let tempAvailableCards = [...cards];
+        let tempSelectedCards = [];
+
+        if(numCards >= minNum && numCards <= maxNum){
+            for(let i=0; i<numCards && tempAvailableCards.length>0; i++){
+                let index = Math.floor(Math.random() * tempAvailableCards.length);
+                tempSelectedCards.push(tempAvailableCards[index]);
+                tempAvailableCards.splice(index, 1);
+            }
+    
+            console.log("tempSelectedCards");
+            console.log(tempSelectedCards);
+            console.log("tempAvailableCards");
+            console.log(tempAvailableCards);
+    
+            setAvailableCards(tempAvailableCards);
+            setSelectedCards(tempSelectedCards);
+        }
+        else{
+            console.log("Not valid number");
+        }
+    }
+
+    useEffect(() => {
+        let matching;
+        let updatedTransJSON = [];
+
+        realTranslations.split("\n").forEach(x => {
+            
+            if(wordAndTransAndPluralRegex.test(x)){
+                matching = x.match(wordAndTransAndPluralRegex);
+                updatedTransJSON.push({word: matching[1], translation: matching[2], plural: matching[3]});
+            }
+            else if(wordAndTransRegex.test(x)){
+                matching = x.match(wordAndTransRegex);
+                updatedTransJSON.push({word: matching[1], translation: matching[2]});
+            }
+            else if(wordAndPlural.test(x)){
+                matching = x.match(wordAndPlural);
+                updatedTransJSON.push({word: matching[1], plural: matching[2]});
+            }
+            else if(wordRegex.test(x)){
+                matching = x.match(wordRegex);
+                updatedTransJSON.push({word: matching[1]});
+            };
+            console.log(updatedTransJSON);
+        });
+        setTransJSON(updatedTransJSON);
+        
+        changeWords(updatedTransJSON);
+
+        console.log("End of useEffect");
+
+    }, []);
 
     /*
     useEffect(() => {
@@ -74,18 +137,29 @@ const Training = () => {
 
     return(
         <div id="training">
-            <h1>Training</h1>
+            <h1>DuoTraining</h1>
             <div className="flexContainer">
-                <div className="cardContainer">
-                    <Card fromItalian={fromItalian} word={currentWord.word} 
-                        translation={currentWord.translation} plural={currentWord.plural} />
+                <div className="cardContainer deep">
+                    {selectedCards.map(x => 
+                    <Card fromItalian={fromItalian} word={x.word} 
+                        translation={x.translation} plural={x.plural}/>)}
                 </div>
                 <div>
+                    <div className="buttonContainer">
+                        <input type="number" className="deep number" 
+                        onChange={(event) => setNumCards(event.target.value)} 
+                        value={numCards} min={minNum} max={maxNum}></input>
+                    </div>
                     <div className="buttonContainer">
                         <Toggle fromItalian={fromItalian} setFromItalian={setFromItalian} />
                     </div>
                     <div className="buttonContainer">
-                        <Button onClick={changeWord} text="New"/>
+                        <Button onClick={() => changeWords(availableCards)} text="New" />
+                    </div>
+                    <div className="buttonContainer">
+                        <Button onClick={() => {
+                            changeWords(transJSON)
+                            }} text="Restart" />
                     </div>
                 </div>
             </div>
