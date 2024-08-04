@@ -1,82 +1,76 @@
-der Mann {Männer}
-die Frau {Frauen}
-das Mädchen 
-der Junge {Jungen}
-
-das Frühstück
-Mittagessen
-Du isst zu mitten
-Abendessen
-Du isst zu abend
-
-die Zeitung {Zeitungen}
-der Buch {Bücher}
-
-das Essen
-der Apfel (den?) {Äpfel}
-das Brot
-das Wasser
-der Reis
-die Suppe
-der Kaffee
-der Tee
-der Käse
+der Mann (uomo) {Männer}
+die Frau (donna) {Frauen}
+das Mädchen (bambina) {Mädchen}
+der Junge (ragazzo) {Jungen}
+die Zeitung (giornale) {Zeitungen}
+der Buch (libro) {Bücher}
+das Essen (cibo)
+der Apfel (mela) {Äpfel}
+das Brot (pane)
+das Wasser (acqua)
+der Reis (riso)
+die Suppe (zuppa)
+der Kaffee (caffè)
+der Tee (tè)
+der Käse (formaggio)
 das Gemüse (verdura)
 das Obst (frutta)
-die Orange Orangen
+die Orange (arancia) {Orangen}
 die Nudel (pasta)
 das Ei (uovo) {Eier}
 der Getränk (bibita)
-
-schmeckt gut
-Das schmeckt gut 
-Sie schmecken gut
-
 der Orangensaft (aranciata)
 Lecker (squisito)
-die Tomate {Tomaten}
+die Tomate (pomodoro) {Tomaten}
 das Hähnchen (pollo)
 der Saft (succo)
 Durst(sete)
 Hunger(fame)
-das Menü
+das Menü (menu)
 die Erdbeere (fragola)
-die Zitrone
+die Zitrone (limone)
 das Fleisch (carne)
-die Kartoffel {Kartoffeln}
-der Zucker
-das Salz
-das Rezept
+die Kartoffel (patata) {Kartoffeln}
+der Zucker (zucchero)
+das Salz (sale)
+das Rezept (ricetta)
 die Speisekarte (menu)
-das Bier
+das Bier (birra)
 das Rind (manzo)
 das Schwein (maiale)
-der Wein
+der Wein (vino)
 sauer (aspro)
-die Schokolade
+die Schokolade (cioccolato)
 der Vegetarier (vegetariano)
 salzig (salato)
+das Frühstück (colazione)
+das Mittagessen (pranzo)
+Du isst zu mittag (tu pranzi)
+das Abendessen (cena)
+Du isst zu abend (tu ceni)
+Das schmeckt gut (è buono / ha un buon sapore) 
+Sie schmecken gut (sono buoni / hanno un buon sapore)
 
 
-die Katze {Katzen}
-die Maus {Mäuse}
-das Tier (animale)
+die Katze (gatto) {Katzen}
+die Maus (topo) {Mäuse}
+das Tier (animale) {Tiere}
 der Vogel (uccello) {Vögel}
 das Pferd (cavallo)
 der Hund (cane) {Hunde}
 der Bär (orso)
-der Wolf
+der Wolf (lupo)
 die Biene (ape)
 die Kuh (mucca)
 die Ente (anatra)
 das Haustier (animale domestico)
 die Fliege (mosca)
-der Elefant (elefanten?)
+der Elefant (elefante) {Elefanten}
 die Spinne (ragno)
 das Schwein (maiale)
 die Schlange (serpente)
-das Insekt
-der Fisch {Fische}
+das Insekt (insetto)
+der Fisch (pesce) {Fische}
 
 Alt (vecchio)
 Großbritannie (Gran Bretagna)
@@ -84,7 +78,7 @@ Schön (bello)
 Reich (ricco)
 Schwer (pesante/difficile)
 Wichtig (importante)
-Perfekt
+Perfekt (perfetto)
 Weiß (bianco)
 Teuer (caro)
 Frei (libero)
@@ -97,7 +91,7 @@ Hässlich (orribile)
 Kostenlos (gratis)
 Genau (appunto, infatti)
 Neu (nuovo)
-Normal
+Normal (normale)
 Schlimm (grave, brutto)
 Nützlich (utile)
 Langsam (lentamente)
@@ -110,8 +104,8 @@ Richtig (giusto)
 Möglich (possibile)
 Schnell (veloce)
 Einfach (facile)
-Positiv
-Modern
+Positiv (positivo)
+Modern (moderno)
 Weich (morbido)
 Früh (presto)
 Kalt (freddo)
@@ -124,7 +118,7 @@ Wahrscheinlich (probabile)
 Gemeinsam (Insieme)
 Kompliziert (complicato)
 Schlecht (cattivo)
-Interessant
+Interessant (interessante)
 
 die Menschen (esseri umani)
 
@@ -136,26 +130,26 @@ der Hut(cappello) {Hüte}
 das Kleid (vestito) {Kleidung}
 die Kleidung (abbigliamento)
 die Tasche (borsa) {Taschen}
-die Börse
+die Börse (borsa / mercato azionario)
 die Hose (pantaloni) {Hosen}
 der Knopf (bottone) {Knöpfe}
 der Schmuck (gioielli)
 die Kosmetik (trucco)
-die Schminke
-die Jacke (Giacca) {Jacken}
+die Schminke (trucco)
+die Jacke (giacca) {Jacken}
 
 Alles (tutto)
 Beide (entrambi/e)
 
 Manche (qualche, alcuni)
-Jede (ogni, ognuno) Jeder
-Viel (molto) viele
+Jede (ogni, ognuno)
+Viel (molto) {viele}
 Man (si)
 Irgendwer, jemand, Irgendjemand (qualcuno)
 Welcher welche welches welche(quale)
 Niemand (nessuno)
 
-die Familie
+die Familie (famiglia)
 der Vater (padre) {väter}
 die Mutter (madre) {mütter}
 die Eltern (genitori)
@@ -163,13 +157,13 @@ die Tochter (figlia) {Töchter}
 der Bruder(fratello) {Brüder}
 der Sohn (figlio) {söhne}
 die Großeltern (nonni)
-der Großvater
-die Großmutter
-der Partner
+der Großvater (nonno)
+die Großmutter (nonna)
+der Partner (partner)
 die Beziehung (relazione)
 die Hochzeit (nozze)
 die Geschwister (fratelli) [sibilings]
-die Schwester
+die Schwester (sorella)
 die Partnerschaft (collaborazione)
 die Oma (nonna)
 der Opa (nonno)
@@ -178,9 +172,9 @@ Jedes (ogni)
 Viele (molti)
 Alle (tutti i ?)
 Welchen (quale)
-Welchen Orangensaft magst du?
+Welchen Orangensaft magst du? (Quale succo d'arancia ti piace?)
 Andere (altro)
-Jemand anderes?
+Jemand anderes (nessun altro)
 
 Mich
 Dich
@@ -198,23 +192,24 @@ Uns
 Euch
 Sich
 
-Irgendwas (qualcosa) irgendetwas?
-Irgendwer (qualcuno) -> irgendwen
+Irgendwas, irgendetwas (qualcosa)
+Irgendwer (qualcuno)
 Das (ciò)
-Jemand (qualcuno) -> jemanden
+Jemand (qualcuno[nom])
+Jemanden (qualcuno[akk])
 Einander (l'un l'altro)
 
-Ist euch Kalt? (avete freddo)
+Ist euch Kalt? (avete freddo?)
 
 Wie (che, come)
 Und (e)
-Oder (o)(vero?)
-Da (qui) (siccome)
+Oder (o)
+Da (qui, siccome)
 Wenn (se)
-Wenn sie geht, geht er (invertire nella seconda parte)
-Weil (perchè [non domanda])
+Wenn sie geht, geht er (Se lei va, lui va)
+Weil (perchè[risposta])
 Sowie (sia) 
-Er trinkt Kaffee sowie Tee
+Er trinkt Kaffee sowie Tee (Lui beve sia caffè sia tè)
 Solange (finchè)
 Aber (ma)
 Entweder ... oder ... (O .. o ..)
@@ -227,11 +222,11 @@ Obwohl (anche se)
 
 der Tisch (tavolo) {Tische}
 der Stuhl (sedia)
-das Sofa 
+das Sofa (divano)
 das Haus (casa) {Häuser}
 der Schlüssel (chiave)
 das Bett (letto)
-die Toilette
+die Toilette (toilette)
 das Fenster (finestra)
 das Bad (bagno)
 das Licht (luce)
@@ -261,7 +256,7 @@ der Spiegel (specchio) {Spiegel}
 Schlaf (il sonno)
 die Möbel (mobili)
 der Wohnhort (residenza)
-der Hausalt (casa?, bilancio?)
+der Hausalt (casa, bilancio)
 das haushaltsgeräte (elettrodomestici)
 die Tasse (tazza) {Tassen}
 das Glas (bicchiere) {Gläser}
@@ -283,7 +278,7 @@ das Spielzeug (giocattolo)
 
 
 aus (fuori / da / di)
-Ich bin aus Deutchland
+Ich bin aus Deutchland (Sono della Germania)
 mit (con / a)
 
 Dativo:  a chi? con chi?
@@ -295,18 +290,19 @@ Wie geht es Euch? (come state?)
 Wie geht es der Familie? (come sta la famiglia?)
 auf (su)
 zu (chiuso / troppo / per / a)
-Nach (dopo / a/ verso) [secondo me, moto a luogo (luoghi senza articolo)]
-Ich gehe nach hause
+Nach (dopo / a / verso [moto a luogo, luoghi senza articolo])
+Ich gehe nach hause (vado a casa)
 Bei (vicino)
 Zur (al) = zu + der?
 Zum = zu + dem (essen fisch zum mittagessen)
 Zun = zu + den
-Ich gehe zur Toilette
-Er spricht zu Schwester
-Am (al) Am Fenster 
-Er ist am Tor
+Ich gehe zur Toilette (vado alla toilette)
+Er spricht zur Schwester (parla alla sorella)
+Am (al)
+Am Fenster (alla finestra) 
+Er ist am Tor (sono al portone)
 Beim (con il / presso il / al / durante il)
-Beim Mittagessen, Fruhstuck
+Beim Mittagessen (durante il pranzo)
 Bei (a casa di)
 
 ---
@@ -331,17 +327,16 @@ Ihnen
 Ich sehe aus wie du (sembro te)
 Sehen aus wie (sembrare)
 
-Ich bin mit dem Kaffee fertig
+Ich bin mit dem Kaffee fertig 
 
-Aus (spento)
-Aus: da (provenienza), di (materia)
+Aus (spento, da [provenienza], di[materia])
 Auf (sopra)
 
 Domande:
 Was (che cosa)
-Wer (chi) Wen (accusativo)
+Wer (chi)
 Wessen (di chi)
-Warum (perché)
+Warum (perché [domanda])
 Wann (quando)
 Wo (dove)
 Woher (da dove)
@@ -351,11 +346,10 @@ Wofür (per che cosa)
 Worüber (di che cosa)
 Worum (di che cosa)
 
-etwas (qualcosa)(agg. qualche)
+etwas (qualcosa, qualche[agg])
 die Antwort (risposta)
-Antworten (rispondere)
-Beantworten
-Beantworte das!
+Antworten, beantworten (rispondere)
+Beantworte das! (rispondi a questo)
 die Frage (domanda)
 Fragen (chiedere)
 Fragen nach (chiedere di)
@@ -365,7 +359,7 @@ Beendet (finito)
 
 Laufen die Treppe hoch (salire le scale)
 
-Nummer
+Nummer 
 
 Eins Erste (Ersten?)
 Zwei Zweiter Zweite Zweites Zweite
@@ -402,7 +396,7 @@ Hundert/Einhundert
 Tausend
 eine Million
 
-die Telefonnummer
+die Telefonnummer (numero di telefono)
 der Liter (litro)
 die Summe (somma)
 das Paar (coppia)
@@ -413,19 +407,21 @@ Prozent (percento)
 Mein Kind ist schlecht (è cattivo)
 Meinem Kind ist schlecht (si sente male)
 
-Wie geht es (+ dativo) : come sta ... ?
+Wie geht es [+ dativo]? (come sta ... ?)
 
 Etwas(un po' di)
 
 Es ist kurz nach drei (appena dopo le tre)
 
-Mit beiden
+Mit beiden (con entrambi)
 Bei ihr (con lei)
 
-Folgen + dativo (seguire)
-Danken + dativo (ringraziare)
-Gehorten + dativo (appartenere a)
-Helfen + dativo (aiutare)
+Folgen + dativ (seguire)
+Danken + dativ (ringraziare)
+Gehorten + dativ (appartenere a)
+Helfen + dativ (aiutare)
+
+-------------QUA----------------
 
 Nicht, nichts, gar nicht, 
 Nie (mai), niemals

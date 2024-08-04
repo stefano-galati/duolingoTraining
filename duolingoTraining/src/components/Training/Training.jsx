@@ -2,7 +2,7 @@ import React from "react";
 import { useState, useEffect } from "react";
 import { realTranslations } from "../../assets/realTranslations";
 import Card from "../Card/Card";
-import Toggle from "../ToggleTranslation/Toggle";
+import Toggle from "../ToggleTranslation/Toggle.jsx";
 import Button from "../Button/Button";
 import "./Training.css"
 
@@ -22,7 +22,7 @@ const Training = () => {
     const [selectedCards, setSelectedCards] = useState([]);
     const [availableCards, setAvailableCards] = useState([]);
 
-    const minNum = 1, maxNum = 10;
+    const minNum = 1, maxNum = 12;
     /*
     function changeWord(){
         let elem = Math.floor(Math.random() * transJSON.length);
