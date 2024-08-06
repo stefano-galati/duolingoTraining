@@ -142,14 +142,13 @@ const Training = () => {
 
     return(
         <div id="training">
-            <h1>DuoTraining</h1>
-            <div className="flexContainer">
+            <div className="flexContainer spaceFromAbove">
                 <div className="cardContainer deep">
                     {selectedCards.map(x => 
                     <Card fromItalian={fromItalian} word={x.word} 
                         translation={x.translation} plural={x.plural}/>)}
                 </div>
-                <div>
+                <div className="flexContainer" id="rightSide">
                     <div className="buttonContainer">
                         <input type="number" className="deep number" 
                         onChange={(event) => setNumCards(event.target.value)} 
@@ -167,6 +166,7 @@ const Training = () => {
                             }} text="Restart" />
                     </div>
                     <div className="buttonContainer">
+                    <div className="flexContainer deep buttonContainer" id="cardSets">
                         <input type="number" className="deep number" 
                             onChange={(event) => {setChosenNumSet(event.target.value)}} 
                             value={chosenNumSet} min={minNumSets} max={numSets}></input>
@@ -191,6 +191,8 @@ const Training = () => {
                             }
                         }}></Button>
                     </div>
+                    </div>
+                    
                 </div>
             </div>
             

@@ -8,6 +8,8 @@ function App() {
 
   return (
     <>
+      <h1>DuoTraining</h1>
+      <div className="line"></div>
       <Training />
     </>
   )

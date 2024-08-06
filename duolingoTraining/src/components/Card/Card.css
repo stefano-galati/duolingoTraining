@@ -1,9 +1,16 @@
 .card{
     width: 150px;
     height: 200px;
+    padding: 10px;
     text-align: center;
     align-self: center;
     justify-self: center;
+    font-size: medium;
+    font-weight: 600;
+}
+
+.card>p{
+    margin-top: 50px;
 }
 
 .italian{
