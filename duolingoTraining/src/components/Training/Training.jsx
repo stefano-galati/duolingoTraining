@@ -22,7 +22,12 @@ const Training = () => {
     const [selectedCards, setSelectedCards] = useState([]);
     const [availableCards, setAvailableCards] = useState([]);
 
+    const [numSets, setNumSets] = useState(1);
+    const [chosenNumSet, setChosenNumSet] = useState(1);
+
     const minNum = 1, maxNum = 12;
+    const minNumSets = 1, maxNumSets = 60;
+
     /*
     function changeWord(){
         let elem = Math.floor(Math.random() * transJSON.length);
@@ -160,6 +165,31 @@ const Training = () => {
                         <Button onClick={() => {
                             changeWords(transJSON)
                             }} text="Restart" />
+                    </div>
+                    <div className="buttonContainer">
+                        <input type="number" className="deep number" 
+                            onChange={(event) => {setChosenNumSet(event.target.value)}} 
+                            value={chosenNumSet} min={minNumSets} max={numSets}></input>
+                        <input type="number" className="deep number" 
+                            onChange={(event) => {setNumSets(event.target.value)}} 
+                            value={numSets} min={minNumSets} max={maxNumSets}></input>
+                        <Button text="Select" onClick={(event)=>{
+                            if(numSets > maxNumSets)
+                                setNumSets(maxNumSets);
+                            else if(numSets < minNumSets)
+                                setNumSets(minNumSets)
+                            else if(chosenNumSet < minNumSets)
+                                setChosenNumSet(minNumSets);
+                            else if(chosenNumSet > maxNumSets)
+                                setChosenNumSet(maxNumSets);
+                            else{
+                                let length = transJSON.length;
+                                let delta = length / numSets;
+
+                                changeWords(transJSON.slice(delta*(chosenNumSet-1),
+                                 chosenNumSet<numSets ? delta*chosenNumSet : length));
+                            }
+                        }}></Button>
                     </div>
                 </div>
             </div>
