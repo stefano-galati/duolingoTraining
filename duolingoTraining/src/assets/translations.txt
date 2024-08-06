@@ -421,7 +421,6 @@ Danken + dativ (ringraziare)
 Gehorten + dativ (appartenere a)
 Helfen + dativ (aiutare)
 
--------------QUA----------------
 
 Nicht, nichts, gar nicht, 
 Nie (mai), niemals
@@ -429,22 +428,23 @@ Kein
 
 Reich mir (passami)
 Er ist der Vater dieser Familie (è il padre di questa famiglia)
-Wann ich esse, schlafe ich nicht
-Sofern es nicht kalt ist, gehen wir essen
+Wann ich esse, schlafe ich nicht (quando mangio non dormo)
+Sofern es nicht kalt ist, gehen wir essen (purchè non faccia freddo andiamo a mangiare)
 
-die Freunden (amici)
-Freunde
+der Freund (amico)
+die Freunden (amici[dativo])
+die Freunde (amici)
 der Feind (nemico)
-das Baby babys
-die Person
+das Baby (bebè) {babys}
+die Person (persona)
 die Freundin (ragazza)
-Kindern
-Nicht dein Vater, nicht deine Freundin, niemand
+Kindern (bambini[dativo])
+Nicht dein Vater, nicht deine Freundin, niemand (Nè tuo padre, nè la tua ragazza, nessuno)
 der Herr (il signore)
 der Verein (associazione)
-Das Mitglied (membro) mitglieder
+Das Mitglied (membro) {mitglieder}
 Verbindungen (contatti)
-Er hat verbindungen zu ihren freunden (contatti con i suoi amici)
+Er hat verbindungen zu ihren freunden (lui ha contatti con i suoi amici)
 Französisch (francese)
 Leute (gente)
 Junge leute (i giovani)
@@ -456,10 +456,10 @@ Die Mannschaft (squadra)
 Die Dame (signora)
 Der Name (nome)
 Der Vornamen (nome)
-Das Personal 
-Das Publikum
+Das Personal (il personale)
+Das Publikum (il pubblico)
 Das Verhältnis (relazione)
-Die Gruppe
+Die Gruppe (gruppo)
 Die Bevölkerung (popolazione)
 Das Englisch (la lingua inglese)
 Der Gast (ospite)
@@ -470,23 +470,23 @@ Die Gemeinde (comune)
 Deutscher (tedesco)
 Der Nutzer (utente)
 Der Einwohner (abitante)
-Die Fans
+Die Fans (fans)
 Der Käufer (acquirente)
-Integration
+Integration (integrazione)
 Die Mitgliedschaft (appartenenza)
 Der Verbraucher (consumatore)
 Englische (inglese)
 Römische (romano)
-Röminsche menschen
+Röminsche menschen (uomini romani)
 Die Erwachsene (adulto)
 
-Zu mir nach hause (a casa da me?)
+Zu mir nach hause (a casa da me)
 Verbindungen zu (contatti con)
 
 der Zug (treno) Züge
-der Bus
+der Bus (bus)
 der Pass (passaporto)
-das Auto
+das Auto (auto)
 
 Ich bin aus Wien (sono di Vienna)
 Ich gehe nach Österreich (vado in Austria)
@@ -498,7 +498,6 @@ der Konsument (consumatore)
 das Boat (barca)
 das Boot (barca)
 das Fahrzeug (macchina)
-das Auto
 der Wagen (macchina)
 die Reise (viaggio)
 Er ist auf einer Reise (è in viaggio)
@@ -508,10 +507,10 @@ Sehenswuurdigkeiten (attrazioni turistiche)
 das Motorrad (moto)
 der Stadtplan (mappa)
 Tourismus (turismo)
-Frankreich
-OOsterreich
-Italien
-die Schweiz
+Frankreich (francia)
+OOsterreich (Austria)
+Italien (Italia)
+die Schweiz (Svizzera)
 der Weg (cammino)
 die Strecke (percorso)
 die Fahrt (gita)
@@ -529,16 +528,16 @@ die Ampel (semaforo)
 der Fußgänger (pedone)
 der Ratgeber (guida)
 der Stau (ingorgo)
-der Transport
+der Transport (trasporto)
 die Bushaltestelle (fermata dell'autobus)
 
 der Garten (giardino)
-das Rot (rosso) rote
-Grün (verde) gruune
-Blau (blu) blauen
-Gelb (giallo) Gelbe
-Scwarz (nero) Schwarze
-Weiß (bianco) Weisse
+das Rot (rosso) {rote}
+Grün (verde) {gruune}
+Blau (blu) {blauen}
+Gelb (giallo) {Gelbe}
+Scwarz (nero) {Schwarze}
+Weiß (bianco) {Weisse}
 die Farbe (colore)
 
 Nominativ
@@ -572,37 +571,37 @@ Verärgert (arrabbiato)
 
 Die Äpfel der Mädchen (le mele delle ragazze)
 der Richter (giudice)
-der Lehrer (insegnante) Lehrerin
-der Arzt (dottore/medico) Ärztin
-der Schüler (alunno) Schülerin Schülerinnen
-der Student (studente) Studentin
+der Lehrer [Lehrerin](insegnante) 
+der Arzt [Ärztin](dottore/medico) 
+der Schüler [Schülerin] (alunno) {Schüler [Schülerinnen]}
+der Student [Studentin] (studente) 
 der Autor (autore)
 der Trainer (allenatore)
 Unser Trainer schläft nie (il nostro allenatore non dorme mai)
 der Händler (commerciante)
 der Professor (professore)
-der Leiter (capo/direttore) Leiterin
+der Leiter [Leiterin] (capo/direttore) 
 der Geschäftsführer (direttore amministrativo)
-die Arbeitgeber (datore di lavoro) arbeitgeberin arbeitgeberinnen
+die Arbeitgeber [arbeitgeberin] (datore di lavoro)  {arbeitgeber[arbeitgeberinnen]}
 der Bauer (contadino)
 der Architekt (architetto)
 der Schneider (sarto)
 der Hersteller (produttore)
 der Bürgermeister (sindaco)
-der Mitarbeiter (collaboratore) Mitarbeiterin
+der Mitarbeiter [Mitarbeiterin] (collaboratore) 
 der Beruf (professione)
 der Fahrer (autista)
-der Experte (esperto) die Experten
+der Experte (esperto) {Experten}
 der Teilnehmer (partecipante)
 die Feuerwehr (vigili del fuoco) 
-Wir haben eine Feuerwehr
-der Rechtsanwalt (avvocato) Rechtsanwaalte
+Wir haben eine Feuerwehr (Abbiamo un corpo dei vigili del fuoco)
+der Rechtsanwalt (avvocato) {Rechtsanwaalte}
 die Bedienung (servizio)
 das Handwerk (mestiere)
 der Verfasser (autore)
 der Betreiber (gestore)
 der Empfänger (destinatario)
-der Arbeitnehmer (dipendente) die arbeitnehmer
+der Arbeitnehmer (dipendente) {arbeitnehmer}
 der Koch (cuoco)
 der Entwickler (sviluppatore)
 die Spezialität (specialità)
@@ -611,10 +610,11 @@ das Reiseführer (guida turistica)
 Es gibt (c'è)
 nur (solo/solamente)
 
-Ich bin nicht die Professorin
-Ich mag die Professorin nicht
+Ich bin nicht die Professorin (non sono la professoressa)
+Ich mag die Professorin nicht (non mi piace la professoressa)
 
-Große (grande) Er ist Gross
+Große (grande) 
+Er ist Groß (è grande)
 Er traagt groosse drei (porta taglia 3)
 Größe (altezza)
 Größer (più grande)
@@ -623,8 +623,8 @@ Schlimmer (peggiore)
 Schlimmste (il peggiore)
 Klein (piccolo)
 Kleiner (più piccolo)
-Besser (migliore) Bessere
-Beste (il migliore) die Besten
+Besser (migliore)
+Beste (il migliore)
 Schönste (il più bello)
 Ich möchte gern (Vorrei)
 Abwaschen (lavare i piatti)
@@ -633,8 +633,6 @@ Schmutzig (sporco)
 Drei Stunden (3 ore)
 Sauber (pulito)
 Müde (stanco)
-
-Der Apfel ist groß (forma predicativa => no declinazione)
 Er ist am groossten (lui è il più grande)
 
 Klassenzimmer (classe)
@@ -663,19 +661,19 @@ Zeigen (mostrare)
 Bild (quadro)
 Haare (capelli)
 der Kopf (testa)
-Auge (occhi) Augen
+Auge (occhi) {Augen}
 Kaufen (comprare)
 Echt (davvero)
 Das Tier ist echt (l'animale è vero)
 Fit (in forma)
 Kaputt (rotto) 
-Es geht kaputt
+Es geht kaputt (si rompe)
 Herzlich (affettuoso)
 Erneut (di nuovo)
 Relativ (relativo)
 Eindeutig (evidente)
 Regional (regionale)
-International
+International (internazionale)
 Muude (stanco)
 Ruhig (calmo)
 Wesentlich (fondamentale)
@@ -684,7 +682,7 @@ Leicht (leggero, facile)
 Jaahrlich (annualmente)
 Plootzlich (all'improvviso)
 Beliebt (benvoluto)
-Original
+Original (originale)
 Begeistert (entusiasta)
 Voollig (completamente)
 Persoonlich (privato)
@@ -712,9 +710,9 @@ Sinnvoll (sensato)
 Notwendig (necessario)
 Aahnlich (simile)
 Wert (valore)
-Was ist mein Mantel wert
+Was ist mein Mantel wert? (Quanto vale il mio cappotto?)
 Dein Pferd ist es wert (Il tuo cavallo lo vale)
-Extrem
+Extrem (estremo)
 Egal (non importa)
 Er ist mir egal (non mi importa di lui)
 Hilfreich (utile)
@@ -724,15 +722,15 @@ Unbekannt (sconosciuto)
 Deutlich (chiaro, comprensibile)
 
 Er ist ... aahnlich (assomiglia)
-im (in) = in dem
+im [in dem](in) 
 Fuur (per)
 an (acceso)
 geht ... an (riguarda)
-auf (su) -> aufs
+auf (su)
 Sie schreibt es auf (se lo scrive)
 uuber (sopra, a proposito di)
 Sie spricht uuber alles (parla di tutto)
-in (in) -> ins
+in (in)
 an (di)
 Was magst du an ihr (cosa di piace di lei)
 Seit (da)
@@ -740,7 +738,7 @@ Seit wann (da quando)
 um (a)
 Ich gehe um zehn (vado alle dieci)
 vor (prima)
-Es ist fuunf vor neun
+Es ist fuunf vor neun (sono le nove meno cinque)
 ohne (senza)
 bis (fino a)
 zwischen (tra)
@@ -757,7 +755,7 @@ Wegen (a causa di)
 unter (tra)
 Einschliesslich (compreso)
 Das geht aufs Haus (questo lo offre la casa)
-ums (intorno?)
+ums (intorno)
 
 Extra (supplementare, appositamente)
 
@@ -778,16 +776,16 @@ Vom Mann zum Vater (da uomo a padre)
 gegenuuber (di fronte)
 auch (anche)
 bis (fino a)
-Ich gehe bis zur Tuur
+Ich gehe bis zur Tuur (vado alla porta)
 die jacke von dieser person (la giacca di questa persona)
-Beschreiben (scrivere?)
+Beschreiben (scrivere)
 warte (aspetta)
 Das geht sie nichts an (questo non la riguarda)
 Trotz (nonostante)
 Trotz der Autos schlafen wir (nonostante le auto dormiamo)
 
 der Fuss (piede)
-die Hand (mano) Haande
+die Hand (mano) {Haande}
 der Koorper (corpo)
 das Bein (gamba)
 die Krankheit (malattia)
@@ -814,9 +812,9 @@ die Haut (pelle)
 die Sucht (dipendenza)
 die Geburt (parto)
 der Finger (dito)
-das Formular (modulo) Formulare
+das Formular (modulo) {Formulare}
 die Untersuchung (controllo, indagine)
-der Alkohol
+der Alkohol (alcol)
 der Kopf (testa)
 die Klinik (clinica)
 die Pflege (assistenza)
@@ -859,7 +857,7 @@ Verkaufen (vendere)
 Stellen vor (presentare)
 Warten (aspettare)
 Ersetzen (cambiare)
-Wir ersetzen die Orange durch eine Kartoffel
+Wir ersetzen die Orange durch eine Kartoffel (Cambiamo un'arancia con una patata)
 Ich stelle sie nicht ein (io non la assumo)
 Stehlen (rubare)
 Nehmen (prendere)
@@ -876,7 +874,7 @@ Erkennen (riconoscere)
 Pruufen (controllare)
 Liegen (sdraiarsi)
 Bitten (pregare)
-Geben (dare) [ich gibt]
+Geben (dare)
 Gefallen (piacere a)
 Singen (cantare)
 Akzeptiert (accettare)
@@ -888,19 +886,19 @@ die Jahre (anno)
 die Morgen (domani)
 Guten morgen (buongiorno)
 die Uhr (orologio)
-Der Zug kommt um neun Uhr an
+Der Zug kommt um neun Uhr an (il treno arriva alle 9)
 die Stunde (lezione, ora)
 die Zeit (tempo)
 Tag (giorno)
 Mittag (mezzogiorno)
 
-Montag
-Dienstag
-Mittwoch
-Donnerstag
-Freitag
-Samstag 
-Sonntag
+Montag (lunedì)
+Dienstag (martedì)
+Mittwoch (mercoledì)
+Donnerstag (giovedì)
+Freitag (venerdì)
+Samstag (sabato)
+Sonntag (domenica)
 
 Tag um Tag (giorno dopo giorno)
 der Kalender (calendario)
@@ -911,18 +909,18 @@ die Sekunde (secondo)
 die Nacht (notte)
 die Saison (stagione)
 
-Januar
-Februar
-Maarz
-April
-Mai
-Juni
-Juli
-August
-September
-Oktober
-November
-Dezember
+Januar (gennaio)
+Februar (febbraio)
+Maarz (marzo)
+April (aprile)
+Mai (maggio)
+Juni (giugno)
+Juli (luglio)
+August (agosto)
+September (settembre)
+Oktober (ottobre)
+November (novembre)
+Dezember (dicembre)
 
 der Urlaub (vacanza)
 der Moment (attimo)
@@ -943,7 +941,7 @@ der Herbst (autunno)
 der Winter (inverno)
 
 die Vergangenheit (passato)
-Um welche Uhrzeit kommt die Schneider?
+Um welche Uhrzeit kommt die Schneider? (A che ora viene il sarto?)
 der Schluss (fine)
 das Alter (età)
 das Wochenende (weekend)
