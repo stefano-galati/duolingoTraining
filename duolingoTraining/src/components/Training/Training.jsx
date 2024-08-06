@@ -27,55 +27,6 @@ const Training = () => {
 
     const minNum = 1, maxNum = 12;
     const minNumSets = 1, maxNumSets = 60;
-
-    /*
-    function changeWord(){
-        let elem = Math.floor(Math.random() * transJSON.length);
-        setCurrentWord(transJSON[elem]);
-        console.log("Random element: "+elem);
-        console.log(currentWord);
-        console.log(transJSON.length);
-    }
-
-    useEffect(() => {
-        let matching;
-        let updatedTransJSON = [];
-
-        realTranslations.split("\n").forEach(x => {
-            
-            if(wordAndTransAndPluralRegex.test(x)){
-                matching = x.match(wordAndTransAndPluralRegex);
-                updatedTransJSON.push({word: matching[1], translation: matching[2], plural: matching[3]});
-            }
-            else if(wordAndTransRegex.test(x)){
-                matching = x.match(wordAndTransRegex);
-                updatedTransJSON.push({word: matching[1], translation: matching[2]});
-            }
-            else if(wordAndPlural.test(x)){
-                matching = x.match(wordAndPlural);
-                updatedTransJSON.push({word: matching[1], plural: matching[2]});
-            }
-            else if(wordRegex.test(x)){
-                matching = x.match(wordRegex);
-                updatedTransJSON.push({word: matching[1]});
-            };
-            console.log(updatedTransJSON);
-        });
-        setTransJSON(updatedTransJSON);
-        
-        //setTransJSON is async :(
-
-        let elem = Math.floor(Math.random() * updatedTransJSON.length);
-        setCurrentWord(updatedTransJSON[elem]);
-        console.log("Random element: "+elem);
-        console.log(currentWord);
-
-        //setTransJSON is async :(
-
-        console.log("End of useEffect");
-
-    }, []);
-    */
     
     function changeWords(cards){
         let tempAvailableCards = [...cards];
@@ -87,7 +38,7 @@ const Training = () => {
                 tempSelectedCards.push(tempAvailableCards[index]);
                 tempAvailableCards.splice(index, 1);
             }
-    
+            
             console.log("tempSelectedCards");
             console.log(tempSelectedCards);
             console.log("tempAvailableCards");
@@ -123,13 +74,13 @@ const Training = () => {
                 matching = x.match(wordRegex);
                 updatedTransJSON.push({word: matching[1]});
             };
-            console.log(updatedTransJSON);
+            //console.log(updatedTransJSON);
         });
         setTransJSON(updatedTransJSON);
         
         changeWords(updatedTransJSON);
 
-        console.log("End of useEffect");
+        //console.log("End of useEffect");
 
     }, []);
 

@@ -48,7 +48,7 @@ das Mittagessen (pranzo)
 Du isst zu mittag (tu pranzi)
 das Abendessen (cena)
 Du isst zu abend (tu ceni)
-Das schmeckt gut (è buono / ha un buon sapore) 
+Das schmeckt gut (è buono / ha un buon sapore)
 Sie schmecken gut (sono buoni / hanno un buon sapore)
 die Katze (gatto) {Katzen}
 die Maus (topo) {Mäuse}
