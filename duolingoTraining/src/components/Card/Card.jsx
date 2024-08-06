@@ -40,9 +40,9 @@ const Card = (props) => {
     <>
         <div className={"deep card " + frontLanguage} onClick={() => setIsFront(x => !x)}>
             {isFront ? 
-            front.map(x => <p>{x}</p>)
+            front.map(x => <p className="preventSelect">{x}</p>)
             :
-            back.map(x => <p>{x}</p>)
+            back.map(x => <p className="preventSelect">{x}</p>)
             }
         </div>
     </>

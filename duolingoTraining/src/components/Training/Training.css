@@ -38,10 +38,18 @@
 .number{
     text-align: center;
     width: 50px;
+    height: 30px;
 }
 
 .number:focus{
     outline: none;
+}
+
+.subtitle{
+    font-size: x-small;
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 0;
 }
 
 @media(max-width: 600px){
@@ -52,6 +60,7 @@
 
     #cardSets{
         flex-direction: row;
+        align-items:start;
     }
 
     .cardContainer{

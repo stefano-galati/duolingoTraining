@@ -167,12 +167,20 @@ const Training = () => {
                     </div>
                     <div className="buttonContainer">
                     <div className="flexContainer deep buttonContainer" id="cardSets">
-                        <input type="number" className="deep number" 
+                        <div className="numberSubtitleContainer">
+                            <input type="number" className="deep number" 
                             onChange={(event) => {setChosenNumSet(event.target.value)}} 
                             value={chosenNumSet} min={minNumSets} max={numSets}></input>
-                        <input type="number" className="deep number" 
+                            <p className="subtitle">Chosen</p>
+                        </div>
+                        
+                        <div className="numberSubtitleContainer">
+                            <input type="number" className="deep number" 
                             onChange={(event) => {setNumSets(event.target.value)}} 
                             value={numSets} min={minNumSets} max={maxNumSets}></input>
+                            <p className="subtitle">#Sets</p>
+                        </div>
+                        
                         <Button text="Select" onClick={(event)=>{
                             if(numSets > maxNumSets)
                                 setNumSets(maxNumSets);
