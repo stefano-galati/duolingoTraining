@@ -48,6 +48,10 @@ const Training = () => {
             setSelectedCards(tempSelectedCards);
         }
         else{
+            if(numCards < minNum)
+                setNumCards(minNum)
+            if(numCards > maxNum)
+                setNumCards(maxNum)
             console.log("Not valid number");
         }
     }
@@ -102,14 +106,20 @@ const Training = () => {
                 <div className="flexContainer" id="rightSide">
                     <div className="buttonContainer">
                         <input type="number" className="deep number" 
-                        onChange={(event) => setNumCards(event.target.value)} 
+                        onChange={(event) => {
+                            
+                            setNumCards(event.target.value)
+                        }} 
                         value={numCards} min={minNum} max={maxNum}></input>
                     </div>
                     <div className="buttonContainer">
                         <Toggle fromItalian={fromItalian} setFromItalian={setFromItalian} />
                     </div>
                     <div className="buttonContainer">
-                        <Button onClick={() => changeWords(availableCards)} text="New" />
+                        <Button onClick={() => {
+                            changeWords(availableCards)
+                            console.log(numCards)
+                        }} text="New" />
                     </div>
                     <div className="buttonContainer">
                         <Button onClick={() => {
@@ -133,20 +143,20 @@ const Training = () => {
                         </div>
                         
                         <Button text="Select" onClick={(event)=>{
-                            if(numSets > maxNumSets)
+                            if(numSets*1 > maxNumSets*1)
                                 setNumSets(maxNumSets);
-                            else if(numSets < minNumSets)
+                            else if(numSets*1 < minNumSets*1)
                                 setNumSets(minNumSets)
-                            else if(chosenNumSet < minNumSets)
+                            else if(chosenNumSet*1 < minNumSets*1)
                                 setChosenNumSet(minNumSets);
-                            else if(chosenNumSet > maxNumSets)
-                                setChosenNumSet(maxNumSets);
+                            else if(chosenNumSet*1 > numSets*1)
+                                setChosenNumSet(numSets);
                             else{
                                 let length = transJSON.length;
                                 let delta = length / numSets;
-
+                                
                                 changeWords(transJSON.slice(delta*(chosenNumSet-1),
-                                 chosenNumSet<numSets ? delta*chosenNumSet : length));
+                                 chosenNumSet*1<numSets*1 ? delta*chosenNumSet : length));
                             }
                         }}></Button>
                     </div>
