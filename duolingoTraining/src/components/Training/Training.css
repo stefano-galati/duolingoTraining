@@ -19,6 +19,7 @@
 
 #rightSide{
     flex-direction: column;
+    height: fit-content;
 }
 
 .cardContainer{
