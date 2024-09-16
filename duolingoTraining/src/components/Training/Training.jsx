@@ -156,7 +156,7 @@ const Training = () => {
                                 let delta = length / numSets;
                                 
                                 changeWords(transJSON.slice(delta*(chosenNumSet-1),
-                                 chosenNumSet*1<numSets*1 ? delta*chosenNumSet : length));
+                                chosenNumSet*1<numSets*1 ? delta*chosenNumSet : length));
                             }
                         }}></Button>
                     </div>
