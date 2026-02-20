@@ -30,6 +30,7 @@ When the chosen set of cards was completely drawn, no more cards can be dealt. *
 
 ## Adding new words
 When new words have to be added, they must be added inside `duolingoTraining/src/assets/realTranslations.js`.
-Every line must contain only one translation.
-The format of every line must be:
-german_word (italian_translation) {optional_plural}
+
+Every line must contain only one translation. 
+
+The format of every line must be: `german_word (italian_translation) {optional_plural}`
