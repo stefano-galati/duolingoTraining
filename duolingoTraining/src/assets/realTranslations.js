@@ -1325,5 +1325,4 @@ das Ziel (obiettivo)
 dort (lì)
 verlieren (perdere)
 sie hatten (avevano)
-regelmaassig (regolarmente)
-` 
+regelmaassig (regolarmente)` 

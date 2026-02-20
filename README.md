@@ -34,3 +34,5 @@ When new words have to be added, they must be added inside `duolingoTraining/src
 Every line must contain only one translation. 
 
 The format of every line must be: `german_word (italian_translation) {optional_plural}`
+
+The last backtick character must be placed at the end of the last line and should not have a line completely dedicated to it.
